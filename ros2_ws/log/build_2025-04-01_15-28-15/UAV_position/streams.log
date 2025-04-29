@@ -1,0 +1,23 @@
+[0.394s] Invoking command in '/home/student/AdR/ros2_ws/src/UAV_position': PYTHONPATH=/home/student/AdR/ros2_ws/build/UAV_position/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/UAV_position build --build-base /home/student/AdR/ros2_ws/build/UAV_position/build install --record /home/student/AdR/ros2_ws/build/UAV_position/install.log --single-version-externally-managed install_data
+[0.533s] running egg_info
+[0.533s] writing ../../build/UAV_position/UAV_position.egg-info/PKG-INFO
+[0.533s] writing dependency_links to ../../build/UAV_position/UAV_position.egg-info/dependency_links.txt
+[0.534s] writing entry points to ../../build/UAV_position/UAV_position.egg-info/entry_points.txt
+[0.534s] writing requirements to ../../build/UAV_position/UAV_position.egg-info/requires.txt
+[0.534s] writing top-level names to ../../build/UAV_position/UAV_position.egg-info/top_level.txt
+[0.535s] reading manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+[0.535s] adding license file 'LICENSE'
+[0.536s] writing manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+[0.536s] running build
+[0.536s] running build_py
+[0.536s] running install
+[0.536s] running install_lib
+[0.537s] running install_data
+[0.537s] running install_egg_info
+[0.538s] removing '/home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position-0.0.0-py3.10.egg-info' (and everything under it)
+[0.539s] Copying ../../build/UAV_position/UAV_position.egg-info to /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position-0.0.0-py3.10.egg-info
+[0.539s] running install_scripts
+[0.554s] Installing publisher script to /home/student/AdR/ros2_ws/install/UAV_position/lib/UAV_position
+[0.554s] Installing subscriber script to /home/student/AdR/ros2_ws/install/UAV_position/lib/UAV_position
+[0.554s] writing list of installed files to '/home/student/AdR/ros2_ws/build/UAV_position/install.log'
+[0.574s] Invoked command in '/home/student/AdR/ros2_ws/src/UAV_position' returned '0': PYTHONPATH=/home/student/AdR/ros2_ws/build/UAV_position/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/UAV_position build --build-base /home/student/AdR/ros2_ws/build/UAV_position/build install --record /home/student/AdR/ros2_ws/build/UAV_position/install.log --single-version-externally-managed install_data

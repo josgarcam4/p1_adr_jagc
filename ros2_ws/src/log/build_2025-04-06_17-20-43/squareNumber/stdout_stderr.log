@@ -1,0 +1,28 @@
+running egg_info
+writing ../build/squareNumber/squareNumber.egg-info/PKG-INFO
+writing dependency_links to ../build/squareNumber/squareNumber.egg-info/dependency_links.txt
+writing entry points to ../build/squareNumber/squareNumber.egg-info/entry_points.txt
+writing requirements to ../build/squareNumber/squareNumber.egg-info/requires.txt
+writing top-level names to ../build/squareNumber/squareNumber.egg-info/top_level.txt
+reading manifest file '../build/squareNumber/squareNumber.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/squareNumber/squareNumber.egg-info/SOURCES.txt'
+running build
+running build_py
+copying squareNumber/square_client.py -> /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber
+copying squareNumber/square_server.py -> /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber
+running install
+running install_lib
+copying /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber/square_client.py -> /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber
+copying /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber/square_server.py -> /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber
+byte-compiling /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber/square_client.py to square_client.cpython-310.pyc
+byte-compiling /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber/square_server.py to square_server.cpython-310.pyc
+running install_data
+copying package.xml -> /home/student/AdR/ros2_ws/src/install/squareNumber/share/squareNumber
+running install_egg_info
+removing '/home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/squareNumber/squareNumber.egg-info to /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber-0.0.0-py3.10.egg-info
+running install_scripts
+Installing square_client script to /home/student/AdR/ros2_ws/src/install/squareNumber/lib/squareNumber
+Installing square_server script to /home/student/AdR/ros2_ws/src/install/squareNumber/lib/squareNumber
+writing list of installed files to '/home/student/AdR/ros2_ws/src/build/squareNumber/install.log'

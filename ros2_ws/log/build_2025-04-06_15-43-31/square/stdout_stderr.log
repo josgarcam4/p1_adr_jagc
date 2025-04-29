@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/square/square.egg-info/PKG-INFO
+writing dependency_links to ../../build/square/square.egg-info/dependency_links.txt
+writing entry points to ../../build/square/square.egg-info/entry_points.txt
+writing requirements to ../../build/square/square.egg-info/requires.txt
+writing top-level names to ../../build/square/square.egg-info/top_level.txt
+reading manifest file '../../build/square/square.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/square/square.egg-info/SOURCES.txt'
+running build
+running build_py
+copying square/square_client.py -> /home/student/AdR/ros2_ws/build/square/build/lib/square
+copying square/square_server.py -> /home/student/AdR/ros2_ws/build/square/build/lib/square
+running install
+running install_lib
+copying /home/student/AdR/ros2_ws/build/square/build/lib/square/square_client.py -> /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square
+copying /home/student/AdR/ros2_ws/build/square/build/lib/square/square_server.py -> /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square
+byte-compiling /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square/square_client.py to square_client.cpython-310.pyc
+byte-compiling /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square/square_server.py to square_server.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/square/square.egg-info to /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/student/AdR/ros2_ws/install/square/lib/square
+Installing server script to /home/student/AdR/ros2_ws/install/square/lib/square
+writing list of installed files to '/home/student/AdR/ros2_ws/build/square/install.log'

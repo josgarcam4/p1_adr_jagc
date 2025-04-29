@@ -1,0 +1,34 @@
+[0.620s] Invoking command in '/home/student/AdR/ros2_ws/src/UAV_position': PYTHONPATH=/home/student/AdR/ros2_ws/build/UAV_position/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/UAV_position build --build-base /home/student/AdR/ros2_ws/build/UAV_position/build install --record /home/student/AdR/ros2_ws/build/UAV_position/install.log --single-version-externally-managed install_data
+[0.762s] running egg_info
+[0.763s] creating ../../build/UAV_position/UAV_position.egg-info
+[0.763s] writing ../../build/UAV_position/UAV_position.egg-info/PKG-INFO
+[0.763s] writing dependency_links to ../../build/UAV_position/UAV_position.egg-info/dependency_links.txt
+[0.763s] writing entry points to ../../build/UAV_position/UAV_position.egg-info/entry_points.txt
+[0.764s] writing requirements to ../../build/UAV_position/UAV_position.egg-info/requires.txt
+[0.764s] writing top-level names to ../../build/UAV_position/UAV_position.egg-info/top_level.txt
+[0.764s] writing manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+[0.765s] reading manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+[0.765s] adding license file 'LICENSE'
+[0.765s] writing manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+[0.765s] running build
+[0.765s] running build_py
+[0.765s] creating /home/student/AdR/ros2_ws/build/UAV_position/build
+[0.766s] creating /home/student/AdR/ros2_ws/build/UAV_position/build/lib
+[0.766s] creating /home/student/AdR/ros2_ws/build/UAV_position/build/lib/UAV_position
+[0.766s] copying UAV_position/__init__.py -> /home/student/AdR/ros2_ws/build/UAV_position/build/lib/UAV_position
+[0.766s] running install
+[0.766s] running install_lib
+[0.767s] creating /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position
+[0.767s] copying /home/student/AdR/ros2_ws/build/UAV_position/build/lib/UAV_position/__init__.py -> /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position
+[0.767s] byte-compiling /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position/__init__.py to __init__.cpython-310.pyc
+[0.767s] running install_data
+[0.768s] creating /home/student/AdR/ros2_ws/install/UAV_position/share/ament_index
+[0.768s] creating /home/student/AdR/ros2_ws/install/UAV_position/share/ament_index/resource_index
+[0.768s] creating /home/student/AdR/ros2_ws/install/UAV_position/share/ament_index/resource_index/packages
+[0.768s] copying resource/UAV_position -> /home/student/AdR/ros2_ws/install/UAV_position/share/ament_index/resource_index/packages
+[0.768s] copying package.xml -> /home/student/AdR/ros2_ws/install/UAV_position/share/UAV_position
+[0.768s] running install_egg_info
+[0.769s] Copying ../../build/UAV_position/UAV_position.egg-info to /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position-0.0.0-py3.10.egg-info
+[0.770s] running install_scripts
+[0.793s] writing list of installed files to '/home/student/AdR/ros2_ws/build/UAV_position/install.log'
+[0.812s] Invoked command in '/home/student/AdR/ros2_ws/src/UAV_position' returned '0': PYTHONPATH=/home/student/AdR/ros2_ws/build/UAV_position/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/UAV_position build --build-base /home/student/AdR/ros2_ws/build/UAV_position/build install --record /home/student/AdR/ros2_ws/build/UAV_position/install.log --single-version-externally-managed install_data

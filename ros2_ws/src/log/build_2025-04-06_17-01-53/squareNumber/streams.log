@@ -1,0 +1,42 @@
+[0.558s] Invoking command in '/home/student/AdR/ros2_ws/src/squareNumber': PYTHONPATH=/home/student/AdR/ros2_ws/src/build/squareNumber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/squareNumber build --build-base /home/student/AdR/ros2_ws/src/build/squareNumber/build install --record /home/student/AdR/ros2_ws/src/build/squareNumber/install.log --single-version-externally-managed install_data
+[0.684s] running egg_info
+[0.684s] creating ../build/squareNumber/squareNumber.egg-info
+[0.685s] writing ../build/squareNumber/squareNumber.egg-info/PKG-INFO
+[0.685s] writing dependency_links to ../build/squareNumber/squareNumber.egg-info/dependency_links.txt
+[0.686s] writing entry points to ../build/squareNumber/squareNumber.egg-info/entry_points.txt
+[0.686s] writing requirements to ../build/squareNumber/squareNumber.egg-info/requires.txt
+[0.686s] writing top-level names to ../build/squareNumber/squareNumber.egg-info/top_level.txt
+[0.686s] writing manifest file '../build/squareNumber/squareNumber.egg-info/SOURCES.txt'
+[0.688s] reading manifest file '../build/squareNumber/squareNumber.egg-info/SOURCES.txt'
+[0.688s] adding license file 'LICENSE'
+[0.688s] writing manifest file '../build/squareNumber/squareNumber.egg-info/SOURCES.txt'
+[0.688s] running build
+[0.688s] running build_py
+[0.689s] creating /home/student/AdR/ros2_ws/src/build/squareNumber/build
+[0.689s] creating /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib
+[0.689s] creating /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber
+[0.689s] copying squareNumber/square_client.py -> /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber
+[0.689s] copying squareNumber/square_server.py -> /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber
+[0.689s] copying squareNumber/__init__.py -> /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber
+[0.690s] running install
+[0.690s] running install_lib
+[0.690s] creating /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber
+[0.691s] copying /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber/square_client.py -> /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber
+[0.691s] copying /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber/square_server.py -> /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber
+[0.691s] copying /home/student/AdR/ros2_ws/src/build/squareNumber/build/lib/squareNumber/__init__.py -> /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber
+[0.691s] byte-compiling /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber/square_client.py to square_client.cpython-310.pyc
+[0.692s] byte-compiling /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber/square_server.py to square_server.cpython-310.pyc
+[0.692s] byte-compiling /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber/__init__.py to __init__.cpython-310.pyc
+[0.692s] running install_data
+[0.693s] creating /home/student/AdR/ros2_ws/src/install/squareNumber/share/ament_index
+[0.693s] creating /home/student/AdR/ros2_ws/src/install/squareNumber/share/ament_index/resource_index
+[0.693s] creating /home/student/AdR/ros2_ws/src/install/squareNumber/share/ament_index/resource_index/packages
+[0.693s] copying resource/squareNumber -> /home/student/AdR/ros2_ws/src/install/squareNumber/share/ament_index/resource_index/packages
+[0.693s] copying package.xml -> /home/student/AdR/ros2_ws/src/install/squareNumber/share/squareNumber
+[0.693s] running install_egg_info
+[0.694s] Copying ../build/squareNumber/squareNumber.egg-info to /home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages/squareNumber-0.0.0-py3.10.egg-info
+[0.695s] running install_scripts
+[0.712s] Installing square_client script to /home/student/AdR/ros2_ws/src/install/squareNumber/lib/squareNumber
+[0.712s] Installing square_server script to /home/student/AdR/ros2_ws/src/install/squareNumber/lib/squareNumber
+[0.712s] writing list of installed files to '/home/student/AdR/ros2_ws/src/build/squareNumber/install.log'
+[0.728s] Invoked command in '/home/student/AdR/ros2_ws/src/squareNumber' returned '0': PYTHONPATH=/home/student/AdR/ros2_ws/src/build/squareNumber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/src/install/squareNumber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/squareNumber build --build-base /home/student/AdR/ros2_ws/src/build/squareNumber/build install --record /home/student/AdR/ros2_ws/src/build/squareNumber/install.log --single-version-externally-managed install_data

@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/UAV_position/UAV_position.egg-info/PKG-INFO
+writing dependency_links to ../../build/UAV_position/UAV_position.egg-info/dependency_links.txt
+writing entry points to ../../build/UAV_position/UAV_position.egg-info/entry_points.txt
+writing requirements to ../../build/UAV_position/UAV_position.egg-info/requires.txt
+writing top-level names to ../../build/UAV_position/UAV_position.egg-info/top_level.txt
+reading manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/UAV_position/UAV_position.egg-info/SOURCES.txt'
+running build
+running build_py
+copying UAV_position/publisher.py -> /home/student/AdR/ros2_ws/build/UAV_position/build/lib/UAV_position
+running install
+running install_lib
+copying /home/student/AdR/ros2_ws/build/UAV_position/build/lib/UAV_position/publisher.py -> /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position
+byte-compiling /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position/publisher.py to publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/UAV_position/UAV_position.egg-info to /home/student/AdR/ros2_ws/install/UAV_position/lib/python3.10/site-packages/UAV_position-0.0.0-py3.10.egg-info
+running install_scripts
+Installing publisher script to /home/student/AdR/ros2_ws/install/UAV_position/lib/UAV_position
+Installing subscriber script to /home/student/AdR/ros2_ws/install/UAV_position/lib/UAV_position
+writing list of installed files to '/home/student/AdR/ros2_ws/build/UAV_position/install.log'

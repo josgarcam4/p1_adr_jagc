@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = UAV_position.publisher:main
+subscriber = UAV_position.subscriber:main
+

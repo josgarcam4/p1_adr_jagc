@@ -1,0 +1,42 @@
+[0.496s] Invoking command in '/home/student/AdR/ros2_ws/src/square': PYTHONPATH=/home/student/AdR/ros2_ws/build/square/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/square build --build-base /home/student/AdR/ros2_ws/build/square/build install --record /home/student/AdR/ros2_ws/build/square/install.log --single-version-externally-managed install_data
+[0.656s] running egg_info
+[0.657s] creating ../../build/square/square.egg-info
+[0.657s] writing ../../build/square/square.egg-info/PKG-INFO
+[0.658s] writing dependency_links to ../../build/square/square.egg-info/dependency_links.txt
+[0.658s] writing entry points to ../../build/square/square.egg-info/entry_points.txt
+[0.658s] writing requirements to ../../build/square/square.egg-info/requires.txt
+[0.658s] writing top-level names to ../../build/square/square.egg-info/top_level.txt
+[0.658s] writing manifest file '../../build/square/square.egg-info/SOURCES.txt'
+[0.660s] reading manifest file '../../build/square/square.egg-info/SOURCES.txt'
+[0.660s] adding license file 'LICENSE'
+[0.660s] writing manifest file '../../build/square/square.egg-info/SOURCES.txt'
+[0.661s] running build
+[0.661s] running build_py
+[0.661s] creating /home/student/AdR/ros2_ws/build/square/build
+[0.661s] creating /home/student/AdR/ros2_ws/build/square/build/lib
+[0.662s] creating /home/student/AdR/ros2_ws/build/square/build/lib/square
+[0.662s] copying square/square_client.py -> /home/student/AdR/ros2_ws/build/square/build/lib/square
+[0.662s] copying square/square_server.py -> /home/student/AdR/ros2_ws/build/square/build/lib/square
+[0.663s] copying square/__init__.py -> /home/student/AdR/ros2_ws/build/square/build/lib/square
+[0.663s] running install
+[0.663s] running install_lib
+[0.664s] creating /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square
+[0.664s] copying /home/student/AdR/ros2_ws/build/square/build/lib/square/square_client.py -> /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square
+[0.665s] copying /home/student/AdR/ros2_ws/build/square/build/lib/square/square_server.py -> /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square
+[0.665s] copying /home/student/AdR/ros2_ws/build/square/build/lib/square/__init__.py -> /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square
+[0.666s] byte-compiling /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square/square_client.py to square_client.cpython-310.pyc
+[0.667s] byte-compiling /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square/square_server.py to square_server.cpython-310.pyc
+[0.667s] byte-compiling /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square/__init__.py to __init__.cpython-310.pyc
+[0.667s] running install_data
+[0.667s] creating /home/student/AdR/ros2_ws/install/square/share/ament_index
+[0.668s] creating /home/student/AdR/ros2_ws/install/square/share/ament_index/resource_index
+[0.668s] creating /home/student/AdR/ros2_ws/install/square/share/ament_index/resource_index/packages
+[0.668s] copying resource/square -> /home/student/AdR/ros2_ws/install/square/share/ament_index/resource_index/packages
+[0.668s] copying package.xml -> /home/student/AdR/ros2_ws/install/square/share/square
+[0.668s] running install_egg_info
+[0.669s] Copying ../../build/square/square.egg-info to /home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages/square-0.0.0-py3.10.egg-info
+[0.671s] running install_scripts
+[0.688s] Installing client script to /home/student/AdR/ros2_ws/install/square/lib/square
+[0.688s] Installing server script to /home/student/AdR/ros2_ws/install/square/lib/square
+[0.689s] writing list of installed files to '/home/student/AdR/ros2_ws/build/square/install.log'
+[0.712s] Invoked command in '/home/student/AdR/ros2_ws/src/square' returned '0': PYTHONPATH=/home/student/AdR/ros2_ws/build/square/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/install/square/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/square build --build-base /home/student/AdR/ros2_ws/build/square/build install --record /home/student/AdR/ros2_ws/build/square/install.log --single-version-externally-managed install_data

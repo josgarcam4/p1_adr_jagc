@@ -1,0 +1,29 @@
+[0.447s] Invoking command in '/home/student/AdR/ros2_ws/src/square': PYTHONPATH=/home/student/AdR/ros2_ws/src/build/square/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/square build --build-base /home/student/AdR/ros2_ws/src/build/square/build install --record /home/student/AdR/ros2_ws/src/build/square/install.log --single-version-externally-managed install_data
+[0.592s] running egg_info
+[0.593s] writing ../build/square/square.egg-info/PKG-INFO
+[0.593s] writing dependency_links to ../build/square/square.egg-info/dependency_links.txt
+[0.594s] writing entry points to ../build/square/square.egg-info/entry_points.txt
+[0.594s] writing requirements to ../build/square/square.egg-info/requires.txt
+[0.594s] writing top-level names to ../build/square/square.egg-info/top_level.txt
+[0.595s] reading manifest file '../build/square/square.egg-info/SOURCES.txt'
+[0.595s] adding license file 'LICENSE'
+[0.595s] writing manifest file '../build/square/square.egg-info/SOURCES.txt'
+[0.596s] running build
+[0.596s] running build_py
+[0.596s] copying square/square_client.py -> /home/student/AdR/ros2_ws/src/build/square/build/lib/square
+[0.596s] copying square/square_server.py -> /home/student/AdR/ros2_ws/src/build/square/build/lib/square
+[0.596s] running install
+[0.597s] running install_lib
+[0.597s] copying /home/student/AdR/ros2_ws/src/build/square/build/lib/square/square_client.py -> /home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages/square
+[0.597s] copying /home/student/AdR/ros2_ws/src/build/square/build/lib/square/square_server.py -> /home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages/square
+[0.598s] byte-compiling /home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages/square/square_client.py to square_client.cpython-310.pyc
+[0.598s] byte-compiling /home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages/square/square_server.py to square_server.cpython-310.pyc
+[0.599s] running install_data
+[0.599s] running install_egg_info
+[0.601s] removing '/home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages/square-0.0.0-py3.10.egg-info' (and everything under it)
+[0.602s] Copying ../build/square/square.egg-info to /home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages/square-0.0.0-py3.10.egg-info
+[0.603s] running install_scripts
+[0.620s] Installing client script to /home/student/AdR/ros2_ws/src/install/square/lib/square
+[0.620s] Installing server script to /home/student/AdR/ros2_ws/src/install/square/lib/square
+[0.621s] writing list of installed files to '/home/student/AdR/ros2_ws/src/build/square/install.log'
+[0.640s] Invoked command in '/home/student/AdR/ros2_ws/src/square' returned '0': PYTHONPATH=/home/student/AdR/ros2_ws/src/build/square/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/AdR/ros2_ws/src/install/square/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/square build --build-base /home/student/AdR/ros2_ws/src/build/square/build install --record /home/student/AdR/ros2_ws/src/build/square/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+square_client = square.square_client:main
+square_server = square.square_server:main
+
